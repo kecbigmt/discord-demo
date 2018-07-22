@@ -20,9 +20,9 @@ $ npm install
 ```
 
 ### 環境変数にChannel IDとBot Tokenを追加
-```js
-export DISCORD_CHANNEL_ID=<channel_id>
-export DISCORD_BOT_TOKEN=<bot_token>
+```bash
+$ export DISCORD_CHANNEL_ID=<channel_id>
+$ export DISCORD_BOT_TOKEN=<bot_token>
 ```
 
 ### 実行
